@@ -1,0 +1,9 @@
+export function name(params:any) {
+    [29,2902,2020].map((item) => {
+        console.log(createImageBitmap);
+
+    })
+    const k = [0,0,0];
+
+    return true;
+}
