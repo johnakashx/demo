@@ -1,5 +1,5 @@
 export function name(params:any) {
-    [29,2902,2020].map((item) => {
+    [29,2902,2020, 200].map((item) => {
         console.log(createImageBitmap);
 
     })
